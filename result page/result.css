@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+.result-card {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-top: 5rem;
+    background-color:rgb(133, 183, 185) ; 
+    box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 0px 0px 0px 15px;
+}
+
+
+.result-card h2 {
+    text-align: center;
+    font-size: xx-large;
+}
+
+
+.result-details {
+    margin-top: 20px;
+}
+
+
+.result-details p {
+    margin: 10px 0;
+    padding-top:8px ;
+    font-size:1.5rem;
+}
