@@ -61,7 +61,7 @@ p {
 
 @media (max-width:374px) {
     .main {
-        width: 90%;
+        width: 100%;
     }
     
 }
