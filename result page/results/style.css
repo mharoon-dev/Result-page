@@ -58,3 +58,10 @@ h1 {
 p {
     text-transform: capitalize;
 }
+
+@media (max-width:374px) {
+    .main {
+        width: 90%;
+    }
+    
+}
